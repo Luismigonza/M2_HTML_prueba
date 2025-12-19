@@ -27,5 +27,5 @@ As a developer, my job is to create a website that clearly and visually conveys 
 ## ⚙️ Instalación y uso
 1. Clonar el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/Luismigonza/M2_HTML_prueba.git
    
